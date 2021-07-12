@@ -1,0 +1,236 @@
+body{
+    background-image: url("background.jpg"),url("background2.jpg");
+    background-position: top,bottom ;
+    background-repeat: no-repeat;
+    background-size:1350px 625px;
+}
+a:link{
+    text-decoration: none;
+}
+#a-t:hover{
+    color:#ffec5c ;
+}
+.a-text{
+    color: white;
+    font-family: "A Arghavan";
+}
+.line{
+    border-bottom: 1px rgba(225,225,225,0.2) solid;
+    width: 100%;
+    margin-top: 15px;
+}
+.line2{
+    border-bottom: 1px #ffec5c solid;
+    width: 3em;
+}
+#line3{
+    border-right: 1px #ffec5c solid;
+    height: 2.5em;
+    margin-top: 12px;
+}
+.icon{
+    margin-top: -8px;
+    display: flex;
+    flex-direction: column;
+}
+.icon-item{
+    margin-left: 2em;
+    width: 60px;
+    color: white;
+    font-size: 25px;
+}
+#icon-img{
+    margin-left: 2.9em;
+}
+.network{
+    display: flex;
+    justify-content: flex-start;
+}
+.network-item{
+    width: 11px;
+    margin-right: 1em;
+    margin-top: 10px;
+}
+#network-item-t{
+    margin-left: 3.4em;
+}
+.communication{
+    font-size: 10px;
+    display: flex;
+    justify-content:flex-end;
+    margin-top: -12px;
+    color: white;
+}
+.communication-item{
+    display: flex;
+    margin-right: 2.5em;
+}
+#communication-item1{
+    margin-right: 6.5em;
+}
+.communication-item-img{
+    margin-right: 5px;
+    width: 12px;
+}
+.menu {
+    display: flex;
+    flex-direction: row-reverse;
+}
+.menu-item{
+    margin-top: 10px;
+    margin-right: 3em;
+}
+.activity{
+    display: flex;
+    justify-content: center;
+    margin-top: 4em;
+}
+.activity-item{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 16em;
+    height: 6em;
+    border-radius: 5px;
+    background-color: rgba(10,10,10,0.5);
+}
+.activity-item-index{
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    color: white;
+    font-size: 20px;
+    font-family: "A Negaar";
+    opacity: unset;
+}
+.activity-index{
+    display: flex;
+    flex-direction: column;
+}
+.activity-index2{
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.activity-item-text{
+    display: flex;
+    justify-content: center;
+    color: rgba(225,225,225,0.6);
+    font-family: "A Negaar";
+    font-size: 10px;
+}
+.activity-img{
+    height: 35px;
+    margin-top: 2.2em;
+    margin-left: 1.2em;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1.5em;
+    margin-left: 9.5em;
+    color: #ffec5c;
+    font-size: 53px;
+    text-shadow: 1.5px 1.5px 0px white;
+}
+
+#text-item{
+    margin-left: 1em;
+}
+.account{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    margin-top: 1.5em;
+}
+.account-item-img{
+    margin-top: 2px;
+    margin-right: 3px;
+    width: 23px;
+    height: 22px;
+}
+.account-item-name{
+    margin-left: 3px;
+    color: white;
+    font-size: 23px;
+    font-family: Afra;
+}
+.text2{
+    font-size: 25px;
+    font-family: "A Negaar";
+}
+#text3{
+    font-size: 18px;
+    font-family: Afra;
+    width: 200px;
+    text-align: right;
+}
+.text-line{
+    margin-top: -1em;
+    display: flex;
+    flex-direction: column;
+    margin-left: 6em;
+}
+.event-list{
+    display: flex;
+    flex-direction: column;
+}
+.list-line{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 10em;
+}
+.line-list-item{
+    margin-right: 2em;
+}
+#box{
+    width: 80px;
+    height: 30px;
+    border-radius: 4px;
+    background-color: #1a1b1c;
+    margin-top: 2em;
+    margin-left: 63em;
+    margin-bottom: 5em;
+}
+.box-text{
+    margin-top: 5px;
+    color: white;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+}
+.roydadha-item{
+    display: flex;
+    flex-direction: column;
+    align-content: baseline;
+}
+#roydad-img{
+    margin-right: 1.5em;
+    margin-left: 1.5em;
+    margin-bottom: 7em;
+    width: 230px;
+    height: 280px;
+}
+.roydad-box{
+    margin-top: -7.9em;
+    margin-left: 5.7em;
+    width: 90px;
+    height: 30px;
+    border-radius: 6px;
+    background-color: #ffec5c;
+}
+#box-index{
+    display: flex;
+    justify-content: center;
+}
+.box-index-text{
+    color: white;
+    align-self: center;
+}
+#box-index-img{
+    margin-left: 15px;
+    margin-top: 5px;
+    width: 18px;
+    height: 18px;
+}
