@@ -1,2 +1,2 @@
 # practice
-practice-html-css.surge.sh
+https://practice-html-css.surge.sh/
